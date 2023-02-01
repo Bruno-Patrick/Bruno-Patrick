@@ -10,8 +10,10 @@
 Linguagens & Tecnologias: `Kotlin`, `Android`\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo-ufac.png"/>](http://200.129.173.65/)
+
 **Bolsista** \
-[**Web Academy**](https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo-ufac.png) • Bolsista \
+[**Web Academy**](http://200.129.173.65/) • Bolsista \
 Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular`, `Google Data Studio`\
 Projetos em destaque: [Powervoice](https://github.com/Bruno-Patrick/motorola.powervoice)
 <br/>
