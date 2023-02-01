@@ -3,14 +3,14 @@
 
 ## Experiências
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
+[<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
 
 **Estagiário de Verão** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • Estágio Remunerado \
 Linguagens & Tecnologias: `Kotlin`, `Android`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo-ufac.png"/>](http://200.129.173.65/)
+[<img align="left" height="94px" width="94px" alt="Logo UFAC" src="https://id.ufac.br/img/ufac_brasao.png"/>](http://200.129.173.65/)
 
 **Bolsista** \
 [**Web Academy**](http://200.129.173.65/) • Bolsista \
