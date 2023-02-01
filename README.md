@@ -12,8 +12,8 @@ Linguagens & Tecnologias: `Kotlin`, `Android`\
 
 [<img align="left" height="94px" width="94px" alt="Logo UFAC" src="https://id.ufac.br/img/ufac_brasao.png"/>](http://200.129.173.65/)
 
-**Bolsista** \
-[**Web Academy**](http://200.129.173.65/) • Bolsista \
+**Web Academy** \
+[**Universidade Federal do Acre**](http://200.129.173.65/) • Bolsista \
 Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular`, `Google Data Studio`\
 Projetos em destaque: [Powervoice](https://github.com/Bruno-Patrick/motorola.powervoice)
 <br/>
