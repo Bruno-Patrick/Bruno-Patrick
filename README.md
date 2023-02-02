@@ -24,5 +24,6 @@ Linguagens & Tecnologias: `Kotlin`, `Android`\
 Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular`, `Google Data Studio`\
 Projetos em destaque: [Powervoice](https://github.com/Bruno-Patrick/motorola.powervoice)
 <br/>
+<br/>
 
 descrição mais detalhada sobre minhas experiências, educação e certificações no [LinkedIn](https://www.linkedin.com/in/dev-brunopatrick/).
