@@ -1,7 +1,7 @@
 ## ⭐ Hi! I'm Bruno Patrick
 
 <a href="https://github.com/Bruno-Patrick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Patrick&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Patrick&theme=dracula&hide_langs_below=1&layout=compact" />
 </a>
 
 <a href="https://github.com/Bruno-Patrick">
