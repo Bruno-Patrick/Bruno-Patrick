@@ -12,7 +12,13 @@
 
 [<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
 
-**Estagiário de Verão** \
+**Estágio em desenvolvimento full stack** \
+[**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • Estágio Remunerado \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
+
+**Estágio de Verão** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • Estágio Remunerado \
 Linguagens & Tecnologias: `Kotlin`, `Android`\
 <br/>
