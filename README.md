@@ -32,4 +32,5 @@ spotlight projects: [Powervoice](https://github.com/Bruno-Patrick/motorola.power
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Patrick&show_icons=true&theme=dracula&line_height=27" alt="**Bruno Patrick** github stats"/>
 </a>
 <br/>
+<br/>
 More information about my experience on my [**LinkedIn**](https://www.linkedin.com/in/dev-brunopatrick/)
