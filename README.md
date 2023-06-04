@@ -24,6 +24,10 @@ spotlight projects: [Powervoice](https://github.com/Bruno-Patrick/motorola.power
 <br/>
 <br/>
 
+More information about my experience on my [**LinkedIn**](https://www.linkedin.com/in/dev-brunopatrick/)
+
+<br/>
+<br/>
 <a href="https://github.com/Bruno-Patrick">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Patrick&theme=dracula&hide_langs_below=1" />
 </a>
@@ -31,6 +35,3 @@ spotlight projects: [Powervoice](https://github.com/Bruno-Patrick/motorola.power
 <a href="https://github.com/Bruno-Patrick">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Patrick&show_icons=true&theme=dracula&line_height=27" alt="**Bruno Patrick** github stats"/>
 </a>
-<br/>
-<br/>
-More information about my experience on my [**LinkedIn**](https://www.linkedin.com/in/dev-brunopatrick/)
