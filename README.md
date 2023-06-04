@@ -3,14 +3,14 @@
 
 [<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
 
-**Estágio em Desenvolvimento Full Stack** \
+**Internship in Full Stack Development** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • remunerated internship \
 Languages and Technologies: `AngularJS`, `Java`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://pbs.twimg.com/profile_images/1103645504603328516/EdqIarl7_400x400.png"/>](https://www.eldorado.org.br/)
 
-**Estágio de Verão** \
+**Summer Internship** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • remunerated internship \
 Languages and Technologies: `Kotlin`, `Android`\
 <br/>
@@ -31,5 +31,5 @@ spotlight projects: [Powervoice](https://github.com/Bruno-Patrick/motorola.power
 <a href="https://github.com/Bruno-Patrick">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Patrick&show_icons=true&theme=dracula&line_height=27" alt="**Bruno Patrick** github stats"/>
 </a>
-
+<br/>
 More information about my experience on my linkedIn [LinkedIn](https://www.linkedin.com/in/dev-brunopatrick/).
