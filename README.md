@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `Kotlin`, `Android`\
 
 **Web Academy** \
 [**Universidade Federal do Acre**](http://200.129.173.65/) • Bolsista \
-Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular`, `Google Data Studio`\
+Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular9`, `Google Data Studio`\
 Projetos em destaque: [Powervoice](https://github.com/Bruno-Patrick/motorola.powervoice)
 <br/>
 <br/>
