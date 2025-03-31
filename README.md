@@ -1,7 +1,7 @@
 ## ⭐ Hi! I'm Bruno Patrick
 ### Experiences:
 
-[<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://imgur.com/IS6QyOG"/>](https://www.eldorado.org.br/)
+[<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://www.eldorado.org.br/wp-content/themes/eldorado/assets/img/logo-branco.svg"/>](https://www.eldorado.org.br/)
 
 **Internship in Full Stack Development** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • remunerated internship \
