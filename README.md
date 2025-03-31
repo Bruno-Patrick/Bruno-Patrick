@@ -5,7 +5,7 @@
 
 **Internship in Full Stack Development** \
 [**Instituto de Pesquisas Eldorado**](https://www.eldorado.org.br/) • remunerated internship \
-Languages and Technologies: `AngularJS`, `Java`\
+Languages and Technologies: `Angular`, `Java Spring Boot`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Logo Eldorado" src="https://www.eldorado.org.br/wp-content/themes/eldorado/assets/img/logo-branco.svg"/>](https://www.eldorado.org.br/)
