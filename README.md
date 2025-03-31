@@ -15,7 +15,7 @@ Languages and Technologies: `AngularJS`, `Java`\
 Languages and Technologies: `Kotlin`, `Android`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Logo UFAC" src="http://www2.ufac.br/ppgespa/menu/coordenacao/downloads/ufac-brasao.png/image_view_fullscreen"/>](http://200.129.173.65/)
+[<img align="left" height="94px" width="94px" alt="Logo UFAC" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo-ufac.png"/>](http://200.129.173.65/)
 
 **Web Academy** \
 [**Universidade Federal do Acre**](http://200.129.173.65/) • scholarship holder \
