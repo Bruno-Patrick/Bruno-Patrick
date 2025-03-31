@@ -31,7 +31,3 @@ More information about my experience on my [**LinkedIn**](https://www.linkedin.c
 <a href="https://github.com/Bruno-Patrick">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Patrick&theme=dracula&hide_langs_below=1" />
 </a>
-
-<a href="https://github.com/Bruno-Patrick">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Patrick&show_icons=true&theme=dracula&line_height=27" alt="**Bruno Patrick** github stats"/>
-</a>
